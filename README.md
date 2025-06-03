@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thilak98
 - 👀 I’m interested in programming/designing
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Every possible thing
 - 📫 How to reach me thilakkandhi8@gmail.com 
 
